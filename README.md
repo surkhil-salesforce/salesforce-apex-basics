@@ -12,4 +12,4 @@ Basic Apex example with SOQL and test classes for Salesforce beginners
 • Salesfoce Platform
 
 ## Test Coverage
-include test class for AccountService to validate SOQL logic
+include AccountServiceTest.cls to validate apex logic and ensure proper test coverage
